@@ -20,3 +20,13 @@ To know where the COTS are, a traditional reef survey method, called "Manta Tow"
 The Great Barrier Reef Foundation established an innovation program to develop new survey and intervention methods to provide a step change in COTS Control. Underwater cameras will collect thousands of reef images and AI technology could drastically improve the efficiency and scale at which reef managers detect and control COTS outbreaks.
 
 To scale up video-based surveying systems, Australia’s national science agency, CSIRO has teamed up with Google to develop innovative machine learning technology that can analyse large image datasets accurately, efficiently, and in near real-time.
+
+*** 
+### Contributors
+| Name             | Email                 | Github                           |
+|------------------|-----------------------|----------------------------------|
+| 👦 Gouyeon Chung | lottlerudolph@gmail.com    | https://github.com/gouyeonch |
+| 🧒 Yejoong Yoon  | dbsdb2222@gmail.com   |----------------------------------|
+| 🧑 Soomin Jung    | yup640@naver.com    |----------------------------------|
+
+2022/01/06/Create
